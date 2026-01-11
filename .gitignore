@@ -1,0 +1,12 @@
+# Database config
+# config/db.php (Commented out because usually you want to hide this, but for simple demos it is often included)
+
+# XAMPP / PHP
+*.log
+.phpunit.result.cache
+.env
+vendor/
+
+# OS Files
+.DS_Store
+Thumbs.db
